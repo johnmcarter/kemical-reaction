@@ -1,3 +1,3 @@
 # kemicalreaction
 
-Legacy website for the band Kemical Reaction
+Legacy website for the band Kemical Reaction.
